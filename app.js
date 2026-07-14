@@ -1,3 +1,3 @@
 function calcularDescuento(precio) {
-    return precio * 0.90; // Descuento aplicado por Estudiante A
+    return precio * 0.85; // Descuento aplicado por Estudiante B
 }
